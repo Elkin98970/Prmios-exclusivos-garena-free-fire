@@ -1,0 +1,106 @@
+body{
+    background-color: rgba(0, 160, 252, 0);
+    background: indigo;
+}
+
+
+#Titulo{
+    border-radius: 30px;
+    padding: 50px;
+    border: cornsilk;
+   color:darkkhaki;
+    background: black;
+    font-size: 30px;
+    
+}
+
+
+#b1{
+border-radius: 20px;
+color: rgb(255, 30, 49);
+background-color: gainsboro;
+    padding: 25px;
+   border: solid blue;
+    border-width: 3px;
+    width: 300px;
+    height: 180px;
+}
+
+
+#b2{
+   
+    padding: 10px;
+    color: rgb(45, 30, 255);
+    font-size: 20px;
+}
+
+img{
+    padding: 20px;
+    width: 300px;
+    height: 200px;
+}
+
+@media screen and (max-width: 800px){
+    div{
+       background: rgb(35, 0, 130);
+    }
+
+}
+
+#b2{
+    color: darkturquoise;
+}
+
+#Panel2{
+    padding: 20px;
+    color: dodgerblue;
+    font-size: 20px;
+    
+}
+
+.Veteranos{
+    float: center;
+}
+
+#texto{
+    border-radius: 15px;
+    padding: 25px;
+    background-color:cornsilk;
+  color: black;
+    font-size: 20px;
+}
+
+#Mira_Diamantes{
+    color: dodgerblue;
+font-size: 20px;
+}
+
+#VerDimantes{
+    border-radius: 20px;
+    background: ghostwhite;
+    color: red;
+    font-size: 25px;
+   
+}
+
+#MascotaGrtis{
+    border-radius: 15px;
+    background: ghostwhite;
+    font-size: 25px;
+}
+
+#Ver_directo_veteranos{
+    border-radius: 15px;
+    background: ghostwhite;
+    font-size: 25px;
+}
+
+#Cita{
+    border-radius: 10px;
+    padding: 25px;
+    background: black;
+    color: yellow;
+    width: 500px;
+    height: 50px;
+   
+}
